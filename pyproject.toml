@@ -13,4 +13,5 @@ dependencies = [
     "python-dotenv>=1.2.2",
     "pydantic>=2.13.4",
     "requests>=2.34.2",
+    "pydantic-settings>=2.14.1",
 ]
